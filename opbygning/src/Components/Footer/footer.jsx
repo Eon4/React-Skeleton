@@ -8,9 +8,9 @@ export const Footer = () => {
         <div className={style.gridItem}>
           <h2>Links</h2>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Services</a></li>
+            <li><a href="#">lalala@mere.dk</a></li>
+            <li><a href="#">partner.dk</a></li>
+            <li><a href="#">Services.dk</a></li>
           </ul>
         </div>
 
